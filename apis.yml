@@ -65,6 +65,11 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: ParentCompany
+  url: https://apis.io/providers/centene-corporation/
+  name: Centene Corporation
+  x-relationship: acquired
+  x-evidence: "Founded in 2009 and an early Bain Capital Ventures portfolio company, Apixio was acquired by Centene Corporation in 2020; its connected-care and coding products are delivered as enterprise B2B SaaS to health plans and providers."
 - type: DomainSecurity
   url: security/apixio-centene-domain-security.yml
 - type: Website
